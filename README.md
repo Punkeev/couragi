@@ -1,0 +1,2 @@
+# couragi
+mudkip
